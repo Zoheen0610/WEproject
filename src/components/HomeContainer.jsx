@@ -22,7 +22,7 @@ const HomeContainer = () => {
       </div>
 
       <p className='text-[2.5rem] font-bold tracking-wide lg:text-[4.5rem] text-headingColor'>The Fastest Delivery in <span className='text-orange-700 text-[3rem] lg:text-[5rem]'>Your city</span></p>
-      <p className='text-base text-gray-600 text-center md:text-left md:w-[80%]'>blabla</p>
+      <p className='text-base text-gray-600 text-center md:text-left md:w-[80%]'>Welcome to Food-en Route, where flavors meet convenience! Order now for a delightful journey of culinary delights delivered right to your doorstep.</p>
 
       <button type='button' className='bg-gradient-to-br from-orange-400 to-orange-500 w-full px-4 py-2 rounded-lg md:w-auto hover: shadow-lg transition-all ease-in-out duration-100'>Order now!</button>
     
